@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="./logo.png" alt="Logo de Eventica" width="200"/>
+<p align="right"> # Eventica
+  <img src="./logo.png" alt="Logo de Eventica" width="100"/>
 </p>
 
 # Eventica
