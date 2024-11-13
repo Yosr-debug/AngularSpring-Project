@@ -108,10 +108,13 @@ L'**interface utilisateur** affiche une liste d'événements , avec des options 
 <img src="./userhomepage.png"  width="800"/>
 
 
+### Vidéo démonstrative
+[Télécharger la vidéo de démonstration](./demo.mp4)
+
 ## Contact
 Pour toute question, veuillez nous contacter à :
 
 Email : yosr.abbassi@epfedu.fr
         , yasmine.bahroun@epfedu.fr
 
-Merci d'avoir choisi Eventica !
+Merci d'avoir choisi Eventica 😊 !
