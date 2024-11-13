@@ -21,7 +21,7 @@ Ce projet est basé sur une architecture moderne avec Angular pour le frontend e
 - [Structure du Projet](#structure-du-projet)
 - [Utilisation](#utilisation)
 - [Contributions](#contributions)
-- [Licence](#licence)
+- [Vidéo démonstrative](#Vidéo-démonstrative)
 - [Contact](#contact)
 
 ---
