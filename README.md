@@ -59,4 +59,17 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
    
    Depuis le répertoire principal du projet, exécutez la commande suivante pour démarrer le serveur backend :
    ```bash
+
    docker-compose up -d
+
+Le backend sera accessible à [http://localhost:8080](http://localhost:8080).
+
+### Vérifier le Serveur Backend
+Accédez à [http://localhost:8080/api/events](http://localhost:8080/api/events). Vous devriez voir la liste des événements ou un message confirmant que le serveur fonctionne.
+
+## Frontend - Angular
+
+### Installer les Dépendances Angular
+Depuis le dossier `frontend`, exécutez :
+```bash
+npm install
