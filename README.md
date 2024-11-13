@@ -1,4 +1,4 @@
-<p align="right"> # Eventica
+<p align="right"> 
   <img src="./logo.png" alt="Logo de Eventica" width="100"/>
 </p>
 
