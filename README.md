@@ -1,3 +1,5 @@
+![Logo de Eventica](./assets/logo.png)
+
 # Eventica
 
 ## Description du Projet
