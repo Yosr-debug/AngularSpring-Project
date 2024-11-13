@@ -71,11 +71,18 @@ Accédez à [http://localhost:8080/api/events](http://localhost:8080/api/events)
 
 ### Installer les Dépendances Angular
 Depuis le dossier `frontend`, exécutez :
-```bash
+
 npm install
 ## Configuration de l'API dans Angular
 Modifiez le fichier `environment.ts` dans `src/environments` pour pointer vers `http://localhost:8080`.
 
 ## Lancer le Serveur Frontend
-```bash
+
 ng serve
+## Contact
+Pour toute question, veuillez me contacter à :
+
+Email : yosr.abbassi@epfedu.fr
+        , yasmine.bahroun@epfedu.fr
+
+Merci d'avoir choisi Eventica !
