@@ -64,8 +64,6 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 
 Le backend sera accessible à [http://localhost:8089](http://localhost:8089).
 
-### Vérifier le Serveur Backend
-Accédez à [http://localhost:8089/api/events](http://localhost:8089/api/events). Vous devriez voir la liste des événements ou un message confirmant que le serveur fonctionne.
 
 ## Frontend - Angular
 
