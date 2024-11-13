@@ -1,4 +1,4 @@
-![Logo de Eventica](./Eventica (1).png)
+![Logo de Eventica](./logo.png)
 
 # Eventica
 
