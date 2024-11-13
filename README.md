@@ -82,7 +82,7 @@ Modifiez le fichier `environment.ts` dans `src/environments` pour pointer vers `
 
 ng serve
 
-## Page d'acceuil
+## Page d'accueil
 <img src="./homepage.png" width="800"/>
 
 <br>
@@ -100,6 +100,9 @@ Pour se connecter en tant qu'**utilisateur simple**, vous pouvez créer un nouve
 - **Password** : 123
 
 <img src="./loginpage.png"  width="800"/>
+
+L'**interface d'administration** permet de gérer facilement les événements ainsi que leurs catégories et les utilisateurs, offrant des options pour créer, modifier ou supprimer des événements, des catégories et des utilisateurs et suivre l'activité des utilisateurs sur la plateforme.
+<img src="./adminhome.png"  width="800"/>
 
 ## Contact
 Pour toute question, veuillez nous contacter à :
