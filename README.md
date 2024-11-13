@@ -104,6 +104,10 @@ Pour se connecter en tant qu'**utilisateur simple**, vous pouvez créer un nouve
 L'**interface d'administration** permet de gérer facilement les événements ainsi que leurs catégories et les utilisateurs, offrant des options pour créer, modifier ou supprimer des événements, des catégories et des utilisateurs et suivre l'activité des utilisateurs sur la plateforme.
 <img src="./adminhome.png"  width="800"/>
 
+L'**interface utilisateur** affiche une liste d'événements , avec des options de filtrage pour affiner la recherche. Les utilisateurs peuvent trier les événements par **catégorie**, **date** ou **disponibilité des places**, facilitant ainsi la sélection des événements qui les intéressent le plus.
+<img src="./userhomepage.png"  width="800"/>
+
+
 ## Contact
 Pour toute question, veuillez nous contacter à :
 
