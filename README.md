@@ -62,10 +62,10 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 
    docker-compose up -d
 
-Le backend sera accessible à [http://localhost:8080](http://localhost:8080).
+Le backend sera accessible à [http://localhost:8089](http://localhost:8089).
 
 ### Vérifier le Serveur Backend
-Accédez à [http://localhost:8080/api/events](http://localhost:8080/api/events). Vous devriez voir la liste des événements ou un message confirmant que le serveur fonctionne.
+Accédez à [http://localhost:8089/api/events](http://localhost:8089/api/events). Vous devriez voir la liste des événements ou un message confirmant que le serveur fonctionne.
 
 ## Frontend - Angular
 
@@ -74,7 +74,7 @@ Depuis le dossier `frontend`, exécutez :
 
 npm install
 ## Configuration de l'API dans Angular
-Modifiez le fichier `environment.ts` dans `src/environments` pour pointer vers `http://localhost:8080`.
+Modifiez le fichier `environment.ts` dans `src/environments` pour pointer vers `http://localhost:8089`.
 
 ## Lancer le Serveur Frontend
 
