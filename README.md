@@ -80,7 +80,7 @@ Modifiez le fichier `environment.ts` dans `src/environments` pour pointer vers `
 
 ng serve
 ## Contact
-Pour toute question, veuillez me contacter à :
+Pour toute question, veuillez nous contacter à :
 
 Email : yosr.abbassi@epfedu.fr
         , yasmine.bahroun@epfedu.fr
