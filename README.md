@@ -1,4 +1,4 @@
-![Logo de Eventica](./assets/logo.png)
+![Logo de Eventica](./Eventica (1).png)
 
 # Eventica
 
