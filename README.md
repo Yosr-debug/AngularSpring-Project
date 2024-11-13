@@ -81,6 +81,26 @@ Modifiez le fichier `environment.ts` dans `src/environments` pour pointer vers `
 ## Lancer le Serveur Frontend
 
 ng serve
+
+## Page d'acceuil
+<img src="./homepage.png" width="800"/>
+
+<br>
+
+Pour se connecter en tant qu'**admin**, vous pouvez utiliser le compte admin déjà existant dans la base :
+
+- **Email** : yosrabbassi0@gmail.com  
+- **Password** : 123123
+
+<br>
+
+Pour se connecter en tant qu'**utilisateur simple**, vous pouvez créer un nouveau compte ou utiliser un compte utilisateur déjà existant dans la base :
+
+- **Email** : yasmine@gmail.com  
+- **Password** : 123
+
+<img src="./loginpage.png"  width="800"/>
+
 ## Contact
 Pour toute question, veuillez nous contacter à :
 
