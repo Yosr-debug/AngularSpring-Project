@@ -19,7 +19,7 @@ Ce projet est basé sur une architecture moderne avec Angular pour le frontend e
   - [Backend - Spring Boot](#backend---spring-boot)
   - [Frontend - Angular](#frontend---angular)
 - [Structure du Projet](#structure-du-projet)
-- [Utilisation](#utilisation)
+- [Utilisation](#Utilisation)
 - [Contributions](#contributions)
 - [Vidéo démonstrative](#Vidéo-démonstrative)
 - [Contact](#contact)
@@ -82,7 +82,8 @@ Modifiez le fichier `environment.ts` dans `src/environments` pour pointer vers `
 
 ng serve
 
-## Page d'accueil
+## Utilisation
+### Page d'accueil
 <img src="./homepage.png" width="800"/>
 
 <br>
@@ -108,7 +109,7 @@ L'**interface utilisateur** affiche une liste d'événements , avec des options 
 <img src="./userhomepage.png"  width="800"/>
 
 
-### Vidéo démonstrative
+## Vidéo démonstrative
 [Télécharger la vidéo de démonstration](./demo.mp4)
 
 ## Contact
