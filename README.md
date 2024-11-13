@@ -1,4 +1,6 @@
-![Logo de Eventica](./logo.png)
+<p align="right">
+  <img src="./logo.png" alt="Logo de Eventica" width="200"/>
+</p>
 
 # Eventica
 
